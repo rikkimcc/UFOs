@@ -11,4 +11,4 @@ Navigating through the UFO sightings webpage is simple - users can search for si
 
 ### Summary: 
 - Drawback: The 'comments' section in the table cuts off at a certain point. Any longer comments are cut short and you're unable to view full text. 
-- Recommendations: 1) To enhance the analysis, sighting data should be gathered from all over the world. Currently, the majority of sightings are only in America. 2)  
+- Recommendations: 1) To enhance the analysis, sighting data should be gathered from all over the world. Currently, the majority of sightings are only in America. 2) Before filtering the data, it's helpful to have a good understanding of what the data holds (date ranges, cities, etc.) and the only way to do this is to scroll through the data beforehand. It'd be helpful to have a summary of the data so the user knows what to search for. 
